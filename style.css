@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    width: 50%;
+    margin: auto;
+    background-color: #553034;
+    color: white;
+}
+
+h1, p {
+    padding: 2em;
+    background: grey;
+    border-radius:2px;
+    box-shadow: 5px 5px 5px rgba(0,5,0,0.23);
+}
+
+h1:hover, p:hover {
+    background: rgba(55,55,55,0.5);
+    cursor: pointer;
+}
